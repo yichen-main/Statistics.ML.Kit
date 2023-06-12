@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UHmPzZ7g0+eAksvJy0bolbq3RhehSnJJ4GFi9cQNI5HvCm5WBRObVSmXccwZV/aCo0wPeTuYu8QvJe1yhNjdZA==",
+  "dgSpecHash": "jGYpwh2dI+HMfwzh96mU3HwSegPxSdgai7u5hkptBtcPDk6oXOdhKSE5YfH8O6TYX6tTF4R0+dGwKCMwG5fGUA==",
   "success": true,
   "projectFilePath": "C:\\01.Programs\\Statistics.ML.Kit\\Linear.Regression\\Linear.Regression.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

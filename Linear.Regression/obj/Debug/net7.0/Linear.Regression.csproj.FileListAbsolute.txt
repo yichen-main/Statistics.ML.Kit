@@ -1,0 +1,17 @@
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\Linear.Regression.exe
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\Linear.Regression.deps.json
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\Linear.Regression.runtimeconfig.json
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\Linear.Regression.dll
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\Linear.Regression.pdb
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.csproj.AssemblyReference.cache
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.GeneratedMSBuildEditorConfig.editorconfig
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.AssemblyInfoInputs.cache
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.AssemblyInfo.cs
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.csproj.CoreCompileInputs.cache
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.csproj.CopyComplete
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.dll
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\refint\Linear.Regression.dll
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.pdb
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\Linear.Regression.genruntimeconfig.cache
+C:\01.Programs\Statistics.ML.Kit\Linear.Regression\obj\Debug\net7.0\ref\Linear.Regression.dll
